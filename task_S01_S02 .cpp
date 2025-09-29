@@ -3,10 +3,10 @@ using namespace std;
 
 int main() {
     // Создаем 4 переменные разных типов
-    int a = 15;
-    double b = 7.5;
-    float c = 3.2f;
-    short d = 4;
+    int a = 88;
+    double b = 2.4;
+    float c = 6.4f;
+    short d = 2;
     int f=34;
     int g=4;
     cout << "Исходные переменные:" << endl;
