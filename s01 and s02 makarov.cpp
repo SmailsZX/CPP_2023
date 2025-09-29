@@ -30,6 +30,7 @@ int main() {
     cout << f << " / " << g << " = " << f / g << endl;        
     cout << f << " % " << g << " = " << f % g << endl;        
     
-    return 0;
+
+    
     return 0;
 }
