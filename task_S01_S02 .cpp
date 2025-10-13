@@ -7,8 +7,7 @@ int main() {
     double b = 2.4;
     float c = 6.4f;
     short d = 2;
-    int f=34;
-    int g=4;
+   
     cout << "Исходные переменные:" << endl;
     cout << "целоеЧисло = " << a << endl;
     cout << "дробноеЧисло = " << b << endl;
@@ -26,9 +25,7 @@ int main() {
     cout << "4. ДЕЛЕНИЕ (/):" << endl;
     cout << a << " / " << b << " = " << a / b << endl;
     cout << c << " / " << d << " = " << c / d << endl;
-    cout << "5. ДЕЛЕНИЕ (нацело и с остатком):" << endl;
-    cout << f << " / " << g << " = " << f / g << endl;        
-    cout << f << " % " << g << " = " << f % g << endl;        
+       
     
     
     return 0;
